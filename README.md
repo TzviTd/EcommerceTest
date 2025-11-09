@@ -6,6 +6,8 @@ Automated UI testing for Automation training website [SauceDemo](https://www.sau
 ![Selenium](https://img.shields.io/badge/Selenium-4-green)
 ![Allure](https://img.shields.io/badge/Allure-Report-orange)
 ![uv](https://img.shields.io/badge/uv-Dependency_Manager-purple)
+![Tests](https://github.com/TzviTd/EcommerceTest/actions/workflows/tests.yml/badge.svg)
+
 
 
 ---
