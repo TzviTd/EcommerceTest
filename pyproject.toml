@@ -1,0 +1,23 @@
+
+[project]
+name = "ecommerce-selenium-unittest-uv"
+version = "0.1.0"
+description = "Junior-friendly Selenium + unittest + Allure skeleton with uv and GitHub Actions."
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "selenium>=4.24.0",
+    "pytest>=8.3.0",
+    "allure-pytest>=2.13.0",
+    "webdriver-manager>=4.0.2",
+    "setuptools>=68",
+]
+
+[tool.pytest.ini_options]
+addopts = "-q"
+testpaths = ["tests"]
+
+[tool.uv]
+# uv-specific metadata (optional)
+
+
