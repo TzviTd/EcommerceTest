@@ -2,6 +2,12 @@
 
 Automated UI testing for Automation training website [SauceDemo](https://www.saucedemo.com/) that imitates online shop built with **Python**, **Selenium**, **unittest**, **Allure**, and **uv**.
 
+![Python](https://img.shields.io/badge/Python-3.13-blue)
+![Selenium](https://img.shields.io/badge/Selenium-4-green)
+![Allure](https://img.shields.io/badge/Allure-Report-orange)
+![uv](https://img.shields.io/badge/uv-Dependency_Manager-purple)
+
+
 ---
 
 ## 📁 Project Structure
